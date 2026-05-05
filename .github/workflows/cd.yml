@@ -1,5 +1,7 @@
 name: CD Pipeline
 
+run-name: CD Pipeline
+
 on:
   push:
     branches: [main]
